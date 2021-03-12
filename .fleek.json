@@ -1,0 +1,14 @@
+{
+  "site": {
+    "id": "ce2ecf00-f39e-4813-85d3-1caab601f5f4",
+    "team": "samuele-fleek2-team",
+    "platform": "ipfs",
+    "source": "ipfs",
+    "name": "crimson-flower-7411"
+  },
+  "build": {
+    "baseDir": "",
+    "publicDir": "build",
+    "rootDir": "/home/piraya/repos/test/github-action-test-3"
+  }
+}
