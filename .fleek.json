@@ -9,6 +9,6 @@
   "build": {
     "baseDir": "",
     "publicDir": "build",
-    "rootDir": "/home/piraya/repos/test/github-action-test-3"
+    "rootDir": ""
   }
 }
