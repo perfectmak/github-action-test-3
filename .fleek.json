@@ -1,14 +1,14 @@
 {
   "site": {
-    "id": "ce2ecf00-f39e-4813-85d3-1caab601f5f4",
-    "team": "samuele-fleek2-team",
+    "id": "2c586965-c148-4cf3-806a-36f03455a357",
+    "team": "perfect-team",
     "platform": "ipfs",
     "source": "ipfs",
-    "name": "crimson-flower-7411"
+    "name": "throbbing-art-9197"
   },
   "build": {
     "baseDir": "",
     "publicDir": "build",
-    "rootDir": ""
+    "rootDir": "/Users/perfect/Terminal/github-action-test-3"
   }
 }
